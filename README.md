@@ -4,8 +4,8 @@ This project: https://the-kings-526.netlify.app/
 
 ## Available Scripts
 
-### `Dance Website`
-### `For this website we car khow about some dance style and also learn dance`
+### `This website is online Dance training Website`
+### `For this website we can know about some dance style and also learn dance`
 
 ### `npm start`
 
