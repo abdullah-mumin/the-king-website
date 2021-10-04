@@ -1,10 +1,15 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
 const Home = () => {
     return (
-        <div className="">
-            <div className="bg-info bg-opacity-10 p-3">
+        <div className=" mt-5 mb-5">
+            {/* Home area */}
+            <p className="mt-3 ms-5 fw-bolder text-start" style={{ fontSize: '4rem' }}>DANCE CLASSES FOR EVERYONE</p>
+            <p className="ms-5 fw-bold fs-4 text-start text-muted">The world’s best dance learning tools – at your fingertips. Start with us.</p>
+
+            {/* Some dance style area */}
+            <div className="p-3">
                 <div className="row m-4 bg-success bg-opacity-25 rounded-2 p-3">
                     <div className="col-5">
                         <Card.Img style={{ width: '400px', height: '250px' }} src="https://cms.harlequinfloors.com/wp-content/uploads/2020/01/scottish-ballet-1024x602.jpg" alt="Card image" />

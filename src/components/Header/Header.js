@@ -5,11 +5,12 @@ import { NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <div>
+            {/* Navigation area */}
             <Navbar bg="primary" variant="light">
                 <Container className="m-2">
                     <Navbar.Brand>
                         <NavLink to="/home" className="text-white text-decoration-none ms-4 fw-bold">
-                            King's United
+                            THE KINGS
                         </NavLink>
                     </Navbar.Brand>
                     <Nav className="me-auto gap-3 ms-4" activeKey="/home">

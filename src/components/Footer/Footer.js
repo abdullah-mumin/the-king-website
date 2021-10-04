@@ -3,6 +3,8 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
+
+            {/* Footer section */}
             <div className="bg-info">
                 <footer className="page-footer font-small blue pt-3">
                     <div className="container-fluid text-center text-md-left">
@@ -47,7 +49,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div class="footer-copyright text-center py-3">© 2020 Copyright: <span className="fs-6 fw-bold">www.thekinginc.com</span>
+                    <div className="footer-copyright text-center py-3">© 2020 Copyright: <span className="fs-6 fw-bold">www.thekinginc.com</span>
                     </div>
                 </footer>
             </div>
