@@ -4,7 +4,8 @@ This project: https://the-kings-526.netlify.app/
 
 ## Available Scripts
 
-In the project directory, you can run:
+### `Dance Website`
+### `For this website we car khow about some dance style and also learn dance`
 
 ### `npm start`
 
