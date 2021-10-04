@@ -1,6 +1,6 @@
 # Getting Started with dance website: The King's
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project: https://the-kings-526.netlify.app/
 
 ## Available Scripts
 
