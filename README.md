@@ -1,4 +1,4 @@
-# Getting Started with The King's dance website
+# Getting Started with dance website: The King's
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
